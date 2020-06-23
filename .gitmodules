@@ -4,18 +4,18 @@
 [submodule "arpspoof"]
 	path = arpspoof
 	url = https://github.com/cSploit/arpspoof.git
-[submodule "cSploitCommon"]
-	path = cSploitCommon
-	url = https://github.com/cSploit/common.git
+[submodule "HAL9KCommon"]
+	path = HAL9KCommon
+	url = https://github.com/ClockW-TheROOT/common.git
 [submodule "ettercap-ng"]
 	path = ettercap-ng
-	url = https://github.com/tux-mind/platform_external_ettercap.git
+	url = https://github.com/Ettercap/ettercap.git
 [submodule "freetds"]
 	path = freetds
 	url = https://github.com/tux-mind/platform_external_freetds.git
 [submodule "hydra"]
 	path = hydra
-	url = https://github.com/tux-mind/thc-hydra.git
+	url = https://github.com/vanhauser-thc/thc-hydra.git
 [submodule "libbthread"]
 	path = libbthread
 	url = https://github.com/tux-mind/libbthread.git
@@ -51,7 +51,7 @@
 	url = https://github.com/tux-mind/platform_external_ncurses.git
 [submodule "nmap"]
 	path = nmap
-	url = https://github.com/tux-mind/platform_external_nmap.git
+	url = https://github.com/nmap/nmap.git
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/android/platform_external_openssl.git
@@ -70,9 +70,9 @@
 [submodule "bdb"]
 	path = bdb
 	url = https://github.com/tux-mind/platform_external_bdb.git
-[submodule "cSploitDaemon"]
-	path = cSploitDaemon
-	url = https://github.com/cSploit/daemon.git
+[submodule "HAL9KDaemon"]
+	path = HAL9KDaemon
+	url = https://github.com/ClockW-TheROOT/daemon.git
 [submodule "firebird"]
 	path = firebird
 	url = https://github.com/tux-mind/platform_external_firebird.git
@@ -114,7 +114,7 @@
 	url = https://github.com/tux-mind/libyaml.git
 [submodule "network-radar"]
 	path = network-radar
-	url = https://github.com/cSploit/network-radar.git
+	url = https://github.com/ClockW-TheROOT/network-radar.git
 [submodule "openldap"]
 	path = openldap
 	url = https://github.com/tux-mind/platform_external_openldap.git
@@ -126,7 +126,7 @@
 	url = https://github.com/android/platform_external_sqlite.git
 [submodule "tcpdump"]
 	path = tcpdump
-	url = https://github.com/tux-mind/platform_external_tcpdump.git
+	url = https://github.com/the-tcpdump-group/tcpdump.git
 [submodule "unixODBC"]
 	path = unixODBC
 	url = https://github.com/tux-mind/platform_external_unixODBC.git
